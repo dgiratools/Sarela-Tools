@@ -1,0 +1,110 @@
+﻿SARELA TOOLS - LICENCIA DE USO Y AVISO LEGAL
+Versión 3 de la licencia · 22 de noviembre de 2026
+
+Copyright © 2026 DGira Tools. Todos los derechos reservados.
+
+Lee estas condiciones antes de usar Sarela Tools (en adelante, «el programa»). Si usas, copias o instalas el programa, aceptas estas condiciones. Si no las aceptas, no lo uses y borra todas tus copias.
+
+1. TITULARIDAD
+El programa, su código, su diseño, sus textos, el nombre «Sarela Tools» y su logotipo pertenecen a DGira Tools (en adelante, «el autor»). Están protegidos por la legislación de propiedad intelectual e industrial, incluido el Texto Refundido de la Ley de Propiedad Intelectual (Real Decreto Legislativo 1/1996), y por los tratados internacionales aplicables. Esta licencia no te transmite la propiedad del programa ni ninguno de esos derechos. Solo te concede un permiso de uso.
+
+2. QUÉ PUEDES HACER
+El autor te concede una licencia gratuita, no exclusiva, intransferible y revocable para:
+  a) Usar el programa en tus propios equipos.
+  b) Usarlo como técnico en equipos de otras personas o empresas, siempre que tengas su autorización.
+  c) Hacer copias de seguridad del programa.
+  d) Pasar copias completas y sin modificar a otras personas, de forma gratuita y siempre junto con este texto de licencia.
+
+3. QUÉ NO PUEDES HACER SIN EL CONSENTIMIENTO PREVIO Y POR ESCRITO DEL AUTOR
+  a) Vender, alquilar, prestar a cambio de dinero o sublicenciar el programa.
+  b) Cobrar por el programa en sí, o incluirlo en un producto, paquete, recopilatorio, suscripción o servicio de pago. (Sí puedes cobrar tu trabajo como técnico si usas el programa como herramienta, según el punto 2.b, siempre que no cobres por el programa.)
+  c) Distribuir versiones modificadas, traducidas o derivadas del programa.
+  d) Descompilar, desensamblar o aplicar ingeniería inversa al programa, salvo en los casos que la ley permite expresamente sin necesidad de autorización.
+  e) Quitar, ocultar o cambiar los avisos de autoría, de copyright o este texto de licencia.
+  f) Usar el nombre «Sarela Tools», su logotipo o el nombre del autor para promocionar otros productos o servicios, o para dar a entender que el autor los respalda.
+  g) Publicar el programa en tiendas de aplicaciones, webs de descargas o repositorios presentándolo como propio o haciendo cambios en él.
+
+4. SIN GARANTÍA
+El programa se ofrece gratis y «tal cual», sin garantía de ningún tipo, ni expresa ni implícita. Esto incluye, entre otras, las garantías de funcionamiento, de idoneidad para un fin concreto, de ausencia de errores y de compatibilidad con un equipo, sistema o programa determinado. El autor no garantiza que el programa funcione sin interrupciones ni que vaya a corregir sus errores.
+
+5. LIMITACIÓN DE RESPONSABILIDAD
+El programa hace cambios profundos en el sistema: borra archivos, modifica el registro de Windows, detiene o desactiva servicios, instala y quita controladores y programas, y ejecuta herramientas de reparación del sistema. Algunas de estas acciones no se pueden deshacer.
+
+  a) Usas el programa bajo tu propia responsabilidad. Antes de usarlo debes hacer copia de seguridad de tus datos y, cuando el programa te lo ofrezca, crear un punto de restauración.
+  b) En la máxima medida que permita la ley aplicable, el autor no se hace responsable de ningún daño o perjuicio, directo o indirecto, derivado del uso o de la imposibilidad de usar el programa. Esto incluye, entre otros: la pérdida o el daño de datos o archivos; los fallos del sistema operativo, de los programas o del equipo; la pérdida de beneficios, de clientes o de negocio; el tiempo de inactividad; y las reclamaciones de terceros.
+  c) Si usas el programa en equipos de otras personas o empresas, eres el único responsable ante ellas. Debes contar con su autorización y avisarles de los riesgos.
+  d) Nada de lo anterior excluye ni limita la responsabilidad que, según la ley, no puede excluirse ni limitarse, como la que se deba a dolo o culpa grave del autor, ni los derechos que la ley reconozca de forma irrenunciable a los consumidores.
+
+6. USO RESPONSABLE Y LEGAL
+Te comprometes a usar el programa conforme a la ley. En particular, solo puedes usar las funciones de red (escaneo de equipos y puertos, servicios, redes WiFi y sus contraseñas, cambios de la configuración de red y de la dirección MAC, bloqueos en el cortafuegos y medidas de velocidad) en redes y equipos que sean tuyos o para los que tengas autorización. El autor no se hace responsable del uso indebido que hagas del programa.
+
+7. PRIVACIDAD
+El programa no recoge ni envía datos personales al autor ni a terceros. Tu historial, tus ajustes y tus registros se guardan solo en tu equipo. Algunas funciones se conectan a Internet solo cuando tú lo pides: por ejemplo, la reparación de Windows con DISM, la instalación de programas con winget, la comprobación de la conexión, la consulta de la IP pública (api.ipify.org, ifconfig.me o icanhazip.com), las consultas DNS, Whois y de certificados a los servidores que elijas, la comparación de servidores DNS o abrir la página de donaciones. En esos casos se aplican las condiciones de los servicios a los que se conecta, como los de Microsoft.
+
+8. DONACIONES
+El programa es gratuito. El autor acepta donaciones voluntarias a través de la plataforma Ko-fi (https://ko-fi.com/dgiratools). Una donación es una aportación voluntaria: no es el precio del programa ni de una licencia, no desbloquea funciones y no da derecho a soporte, garantías, actualizaciones ni ningún otro servicio. Los pagos los gestionan Ko-fi y sus proveedores de pago, con sus propias condiciones y política de privacidad; el programa solo abre el enlace en tu navegador y no recoge ningún dato de pago. Si procede alguna devolución, se tramita según las condiciones de Ko-fi.
+
+9. COMPONENTES Y MARCAS DE TERCEROS
+El programa incluye elementos de terceros, sujetos a sus propias licencias, cuyo texto está en el anexo al final de este documento:
+  - Iconos Lucide (https://lucide.dev), con licencia ISC; algunos proceden del proyecto Feather, con licencia MIT.
+  - Lista pública de fabricantes de tarjetas de red (OUI) del IEEE.
+También usa componentes que ya vienen con Windows (.NET Framework, SQLite de Windows, PowerShell, DISM, winget y otras herramientas del sistema), que se rigen por las condiciones de Microsoft.
+Los programas que se pueden instalar desde el catálogo se descargan de sus fuentes oficiales mediante winget, el gestor de paquetes de Microsoft, y se rigen por sus propias licencias. Sarela Tools no los incluye, no los distribuye y no los modifica.
+Los nombres de programas, servicios, empresas y marcas de terceros que aparecen en el programa (por ejemplo, en el catálogo de instalación, en los servidores DNS o en los navegadores y aplicaciones que limpia) pertenecen a sus respectivos titulares y se usan solo para identificarlos. Su mención no implica ninguna relación, patrocinio ni respaldo.
+
+10. FIN DE LA LICENCIA
+Esta licencia termina automáticamente si incumples cualquiera de sus condiciones. En ese caso debes dejar de usar el programa y borrar todas tus copias. Los puntos 1, 4, 5, 8 y 11 siguen en vigor después de que la licencia termine.
+
+11. CAMBIOS, LEY APLICABLE Y JURISDICCIÓN
+El autor puede cambiar estas condiciones en versiones posteriores del programa. Cada versión se rige por la licencia que la acompaña. Si un tribunal declara nula alguna parte de esta licencia, el resto sigue en vigor. Esta licencia se rige por la legislación española. Para cualquier conflicto, las partes se someten a los juzgados y tribunales que correspondan según la ley, sin perjuicio del fuero que corresponda a los consumidores.
+
+12. CONTACTO
+Para pedir permiso para cualquier uso del punto 3, o para cualquier consulta sobre esta licencia, escribe al autor, DGira Tools, a dgira.tools@gmail.com.
+
+ANEXO: LICENCIAS DE LOS COMPONENTES DE TERCEROS
+
+Iconos Lucide (https://lucide.dev)
+
+ISC License
+
+Copyright (c) 2026 Lucide Icons and Contributors
+
+Permission to use, copy, modify, and/or distribute this software for any
+purpose with or without fee is hereby granted, provided that the above
+copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+---
+
+The following Lucide icons are derived from the Feather project:
+
+airplay, alert-circle, alert-octagon, alert-triangle, aperture, arrow-down-circle, arrow-down-left, arrow-down-right, arrow-down, arrow-left-circle, arrow-left, arrow-right-circle, arrow-right, arrow-up-circle, arrow-up-left, arrow-up-right, arrow-up, at-sign, calendar, cast, check, chevron-down, chevron-left, chevron-right, chevron-up, chevrons-down, chevrons-left, chevrons-right, chevrons-up, circle, clipboard, clock, code, columns, command, compass, corner-down-left, corner-down-right, corner-left-down, corner-left-up, corner-right-down, corner-right-up, corner-up-left, corner-up-right, crosshair, database, divide-circle, divide-square, dollar-sign, download, external-link, feather, frown, hash, headphones, help-circle, info, italic, key, layout, life-buoy, link-2, link, loader, lock, log-in, log-out, maximize, meh, minimize, minimize-2, minus-circle, minus-square, minus, monitor, moon, more-horizontal, more-vertical, move, music, navigation-2, navigation, octagon, pause-circle, percent, plus-circle, plus-square, plus, power, radio, rss, search, server, share, shopping-bag, sidebar, smartphone, smile, square, table-2, tablet, target, terminal, trash-2, trash, triangle, tv, type, upload, x-circle, x-octagon, x-square, x, zoom-in, zoom-out
+
+The MIT License (MIT) (for the icons listed above)
+
+Copyright (c) 2013-present Cole Bemis
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
